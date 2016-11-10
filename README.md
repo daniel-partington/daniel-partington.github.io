@@ -1,1 +1,1 @@
-"# daniel-partington.github.io" 
+http://daniel-partington.github.com

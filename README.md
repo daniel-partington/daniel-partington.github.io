@@ -1,1 +1,1 @@
-http://daniel-partington.github.com
+http://daniel-partington.github.io
